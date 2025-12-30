@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Principles of Adaptation & Learning Lab
+# Principled Adaptation & Learning Lab
 
 **PAL Lab** — Coming Soon
 
